@@ -19,11 +19,6 @@
 ## 🖥️ Our Devs
 
 - [@MrFluffycloud#9999](https://www.github.com/MrFluffycloud)
-- [@Akshit Gupta#6782](https://github.com/Akshit1025)
-- [@AndyIsHereBoi#8909](https://github.com/AndyIsHereBoi)
-- [@Devik_NotFound#2695](https://github.com/guptadevik2003)
-- [@WufTheFurry#0705](https://github.com/BotiTech)
-
 
 ## ⁉️ Support
 
